@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "696505101334",
+    "project_id": "cobain-cf491",
+    "storage_bucket": "cobain-cf491.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696505101334:android:c4297c1d65655767e91937",
+        "android_client_info": {
+          "package_name": "com.amikom.cobain"
+        }
+      },  
+      "oauth_client": [
+        {
+          "client_id": "696505101334-fi61k6jfink7fu70rgao06grglr8e0f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amikom.cobain",
+            "certificate_hash": "b0e16691a436520e72cc8ff63f388eff5a335db3"
+          }
+        },
+        {
+          "client_id": "696505101334-moihkjc4sturjn3dhbqitk7i5oe0kl4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amikom.cobain",
+            "certificate_hash": "5f627dfbba3f407c5bfa23ce1186fe6d13020df6"
+          }
+        },
+        {
+          "client_id": "696505101334-hd4ud5o5juasrd6a9li1nfpgqmih7r49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMUQKGjQYNv7VWWoNPeV7hPoOIOBAb9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696505101334-hd4ud5o5juasrd6a9li1nfpgqmih7r49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696505101334-ht4vbc5iltonba501ek3etpn8f4ojuu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amikom.cobain"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696505101334:android:3a604f725d955477e91937",
+        "android_client_info": {
+          "package_name": "com.amikom.cobain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696505101334-2ku1ghc3du9003aldlbn9d259cstqd13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amikom.cobain",
+            "certificate_hash": "b0e16691a436520e72cc8ff63f388eff5a335db3"
+          }
+        },
+        {
+          "client_id": "696505101334-t3c3q2f6otaouec58hfj39evdmqqhd5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amikom.cobain",
+            "certificate_hash": "5f627dfbba3f407c5bfa23ce1186fe6d13020df6"
+          }
+        },
+        {
+          "client_id": "696505101334-hd4ud5o5juasrd6a9li1nfpgqmih7r49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMUQKGjQYNv7VWWoNPeV7hPoOIOBAb9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696505101334-hd4ud5o5juasrd6a9li1nfpgqmih7r49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696505101334-ht4vbc5iltonba501ek3etpn8f4ojuu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amikom.cobain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
